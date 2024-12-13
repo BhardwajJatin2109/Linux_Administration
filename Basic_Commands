@@ -1,0 +1,37 @@
+pwd: present working directory.-> pwd
+
+cd : change directory. -> cd..-> go back to previous directory and cd-> change directory to root.
+
+mkdir : make directory. -> mkdir directory_name
+
+touch : used to create file. Syntax -> touch file_name.text
+
+cp Jatin/t1.text :  used to copy file from one folder to another -> cp directory/file_name destination.
+
+mv Jatin1/t1.text Jatin2 : used to move file from one location to another. Syntax -> mv directory/file_name destination
+
+rmdir directory_name -> remove directory which is empty.
+
+rm -r directory_name -> remove directory with the files contained in it.
+
+cd / -> go to root.
+
+folder inside folder -> mkdir -p fol1/fol2/fol3
+
+touch .file_name -> create hidden file.
+
+ls -a -> show hidden folder.
+
+ls -al -> show hidden folder with details.
+
+ls -A -> show all files except . and ..
+
+sudo mkdir directory_name -> create folder in root. 
+
+sudo rmdir directory_name -> remove folder in root.
+
+absolute path -> path starting from root
+
+relative path -> path starting current to me.
+
+multiple folder in one line -> mkdir folder1 folder2 folder3
