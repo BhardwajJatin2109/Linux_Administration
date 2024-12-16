@@ -35,3 +35,27 @@ absolute path -> path starting from root
 relative path -> path starting current to me.
 
 multiple folder in one line -> mkdir folder1 folder2 folder3
+
+ls -l -> show list with details.
+
+mkdir fol{1..100} -> make folder upto 100.
+
+rmdir fol{1..100} -> delete folder upto 100.
+
+mkdir fol1/fol2/fol3 -> will create fol3 after checking the existence of fol1 and fol2.
+
+mkdir -p fol1/fol2/fol3 -> will create folders.
+
+cat>file_name -> used to create file and add text to it that is editor. and used to overwrite.
+
+ctrl+d -> to come out of editor.
+
+to read what is written using cat -> cat file_name or cat < file_name
+
+rev command -> reverses the command.
+
+tac file_name -> vertically reverses.
+
+head file1.txt -> it will display top by default 10 lines of the file1.txt.
+
+tail file1.txt -> last 10 lines will be displayed.
