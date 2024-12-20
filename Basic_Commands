@@ -59,3 +59,43 @@ tac file_name -> vertically reverses.
 head file1.txt -> it will display top by default 10 lines of the file1.txt.
 
 tail file1.txt -> last 10 lines will be displayed.
+
+- -> represents files 
+
+d -> represents directory.
+
+chmod -> modify the permissions.
+
+user/owner group other   ->  r -> read, w-> write , x-> execute.
+
+read write execute
+
+u+r/w/x or u-r/w/x for providing or removing access to the users.
+
+g+r/w/x or g-r/w/x for providing or removing access to the group.
+
+o+r/w/x or o-r/w/x for providing or removing access to the others.
+
+chmod 777 file-name -> provide all permission.
+
+1= execute
+
+2=write
+
+3=wx
+
+4=r
+
+5=rx
+
+6=rw
+
+7=rwx
+
+rwx  -> 421 -> respectively
+
+esc then----  :wq -> save and quit.
+
+vim is editor. press i to enter in insert mode. vim file_name to open editor.
+
+nano file_name -> to open nano file.
