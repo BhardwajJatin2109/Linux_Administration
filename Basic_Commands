@@ -99,3 +99,24 @@ esc then----  :wq -> save and quit.
 vim is editor. press i to enter in insert mode. vim file_name to open editor.
 
 nano file_name -> to open nano file.
+
+ps -> process status
+
+top -> memory or task ke hisab se dikhta he
+
+kill -9 process_id  -> kill process and also terminates the terminal.
+
+sort -> sort file_name -> does the sorting. 
+
+for unique command it should be sorted.
+
+unique command will print unique number only in sequence that means elements that are corresponding to each other in unsorted. -> sort file_name | uniq
+
+piping :- output of command will be input for another command.
+
+sudo apt update ->  collects new version from source repository.
+
+sudo apt upgrade -> upgrades all 
+
+sudo apt full-upgrade -> remove unnecessary configurations.
+
