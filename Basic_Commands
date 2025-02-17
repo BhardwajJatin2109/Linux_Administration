@@ -120,3 +120,19 @@ sudo apt upgrade -> upgrades all
 
 sudo apt full-upgrade -> remove unnecessary configurations.
 
+sudo apt remove vim -> to remove vim
+
+sudo apt install vlc -> to install vlc
+
+
+
+ping -c 5 website_link -> used to ping on server/website.
+
+
+
+nano file_name.sh -> to create shell, extension will be .sh  .... and  header file to be added under nano will be #!/bin/bash as a header file. and write your code in it.
+
+
+
+
+
